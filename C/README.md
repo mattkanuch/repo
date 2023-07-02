@@ -1,6 +1,6 @@
 Collection of simple college assignments 2018-2019 programmed in C
 
-**hangman.c** - simple game of guessing a random word - based on hangman
+**hangman** - simple game of guessing a random word - based on hangman
 
 **DOOM.c** - simple 2D game, moving through maze and killing enemies
 
