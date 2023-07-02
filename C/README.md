@@ -1,4 +1,4 @@
-Collection of simple college assignments programmed in C
+Collection of simple college assignments 2018-2019 programmed in C
 
 DOOM.c - very simple 2D game, moving through maze and killing enemies
 
