@@ -10,6 +10,6 @@ Collection of simple college assignments 2018-2019 programmed in C
 
 **lunch.c** - calculates the amount of cash grant for students and school employees (based on ISIC grants)
 
-**tesco.c** - program based of self-service tesco checkout
+**tesco.c** - program based on self-service tesco checkout
 
 **triangulation.c** - calculates the distance between 2 points using triangulation
