@@ -2,6 +2,8 @@ Collection of simple college assignments 2018-2019 programmed in C
 
 **hangman** - simple game of guessing a random word - based on hangman
 
+**playfair encryption** - program based on playfair encryption where a string is encrypted and decrypted using another string 
+
 **DOOM.c** - simple 2D game, moving through maze and killing enemies
 
 **count_words.c** - opens text file and counts words
