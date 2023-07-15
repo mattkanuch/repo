@@ -1,45 +1,19 @@
-**Coffee shop APP**
+**Coffee shop reservation** - college semestral assignment
 
-**Link na Video:**https://youtu.be/YZTwjV2pn2Q
-**Doplnené funkcie:**https://youtu.be/kXqhoULdlo0
+**Link to Video:**https://youtu.be/YZTwjV2pn2Q **Added functions:**https://youtu.be/kXqhoULdlo0
 
-**Stručné info:**
-Hlavným cieľom aplikácie je používateľom/zákazníkom uľahčiť objednávanie kávy a rezervovanie stolov v kaviarni.
-Celá aplikácia funguje aj keď nie je zariadenie pripojené na sieť (z dôvodu ľahšieho de-buggingu, kontroly a ukázania hl. funkcionality)
+**Brief info:** The main goal of the application is to make it easier for users/customers to order coffee and reserve tables in the cafe. The entire application works even if the device is not connected to the network (for easier de-bugging, checking and showing the main functionality)
 
-**Intro Obrazovka**
-Tu si môžte vybrať jazyk aplikácie (ENG/SK) a mód zobrazenie (light/night), následne sa preklikneme na hlavnú obrazovku,
-kde sú následujúce funkcie:
+**Intro Screen** Here you can choose the language of the application (ENG/SK) and display mode (light/night), then click through to the main screen, where the following functions are available:
 
-Na hlavnej obrazovke nám pod Logom píše či je obchod momentálne otvorený alebo zatvorený, podľa toho aký je čas a deň
+On the main screen, under the logo, it tells us whether the store is currently open or closed, depending on the time and day
 
-**SHOP:**
-Hlavná funkcia aplikácie:
-Tu si môžte vyberať z 18 rôznych typov káv. Kliknutím na kávu sa spustí objednávka, ktorú môžte do 15 sekúnd zrušiť.
-potom sa reálna objednávka spustí, ktorá sa už nedá zrušiť a trvá nejaký čas, kým sa káva pripraví. 
-(šetríme čas, tak celá objednávka je nerealisticky rýchlo vybavená v priebehu 15 sekúnd aby sa ukázala funkčnosť).
-nakoniec sa zobrazí kód objednávky a jej QR kód
+**SHOP:** The main function of the application: Here you can choose from 18 different types of coffee. Clicking on the coffee starts the order, which you can cancel within 15 seconds. then the real order starts, which can no longer be canceled and takes some time for the coffee to be prepared. (we save time, so the entire order is unrealistically quickly equipped within 15 seconds to demonstrate functionality). finally, the order code and its QR code will be displayed
 
-**MIX:**
-Hlavná funkcia aplikácie:
-Tu si môžte podľa seba pripraviť kávu, vyberáte z niekoľkých ingrediencií a potom stlačením tlačidla objednať - proces pokračuje
-ako objednávka SHOP-u.
-táto celá funkcia mala byť skôr graficky spracovaná ale štýlom ako som začal písať aplikáciu som to už nevedel schopne spojazdniť :/
-aspoň som sa naučil ako som to mohol spraviť krajšie a lepšie! :)
+**MIX:** The main function of the application: Here you can make your own coffee, choose from several ingredients and then press the order button - the process continues as a SHOP order. this whole function should have been graphically processed, but with the style that I started writing the application, I was no longer able to do it properly :/ at least I learned how I could make it nicer and better! :)
 
-**Reserve Table**
-Hlavná funkcia aplikácie:
-Tu si zakliknutím čísla stolu môžte rezervovať stôl na určitý čas.
+**Reserve Table** The main function of the application: Here, by clicking on the table number, you can reserve a table for a certain time.
 
-**Find Shop**
-Zobrazí mapu kde sa shop/kaviareň nachádza.
-Kliknutím tlačidla aké je počasie? - zistíme teplotu pred obchodom - použité OpenWeather API.
-Kliknutím tlačidla Ako som ďaleko od Obchodu? - zistíme aká vzdialenosť je medzi mojim zariadením a obchodom/kaviarňou v metroch 
-   (Emulátor hovorí že je 9000km od obchodu, Ale reálne zariadenie píše správne hodnoty) - použitý akčný člen GPS modul.
-Otvor v mape - otvorí lokáciu obchodu vo vašich Mapách.
+**Find Shop** Displays the map where the shop/cafe is located. Click the button what's the weather like? - we will find out the temperature in front of the shop - used OpenWeather API. By clicking the button How am I away from the Shop? - we will find out the distance between my device and the store/cafe in meters (the emulator says that it is 9000 km from the store, but the real device writes the correct values) - the GPS module action member is used. Open in map - opens the store location in your Maps.
 
-**Info**
-tu sa nachádza info o aplikácií a obchode + otváracie hodiny (podľa nich píše na hl. obrazovke či je obchod otvorený/zatvorený)
--nič zaujímavé na tejto strane, iba kopa textu kvôli SK/ENG prekladu :D
-
-
+**Info** here you can find info about applications and the store + opening hours (according to them, it says on the main screen whether the store is open/closed) - nothing interesting on this page, just a bunch of text due to the SK/ENG translation requirements :D
