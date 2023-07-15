@@ -8,7 +8,7 @@
 
 On the main screen, under the logo, it tells us whether the store is currently open or closed, depending on the time and day
 
-**SHOP:** The main function of the application: Here you can choose from 18 different types of coffee. Clicking on the coffee starts the order, which you can cancel within 15 seconds. then the real order starts, which can no longer be canceled and takes some time for the coffee to be prepared. (we save time, so the entire order is unrealistically quickly equipped within 15 seconds to demonstrate functionality). finally, the order code and its QR code will be displayed
+**SHOP:** The main function of the application: Here you can choose from 18 different types of coffee. Clicking on the coffee starts the order, which you can cancel within 15 seconds. then the real order starts, which can no longer be canceled and takes some time for the coffee to be prepared. (we save time, so the entire order is unrealistically quickly executed within 15 seconds to demonstrate functionality). finally, the order code and its QR code will be displayed
 
 **MIX:** The main function of the application: Here you can make your own coffee, choose from several ingredients and then press the order button - the process continues as a SHOP order. this whole function should have been graphically processed, but with the style that I started writing the application, I was no longer able to do it properly :/ at least I learned how I could make it nicer and better! :)
 
