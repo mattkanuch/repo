@@ -351,7 +351,7 @@ const findCoordinatesFunction=function(){
 
   function getWeather() {
     var cityID='865084';
-    var key = '78573e111e667754c00effef8f085e35';
+    var key = '???????????????????????????????';
     fetch('https://api.openweathermap.org/data/2.5/weather?id=' + cityID+ '&appid=' + key +'&units=metric')
     .then(function(resp) { return resp.json() }) // Convert data to json
     .then(function(data) {
